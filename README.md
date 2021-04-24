@@ -1,0 +1,3 @@
+# JacobiGaussLU
+
+![plot](./plot.png)
