@@ -1,6 +1,6 @@
 # JacobiGaussLU
 
-Used numpy and pyplot
+University project made with numpy and pyplot
 
 Project that generates matrix A and vector B and tries to find X using differnt methods: 
 - Jacobi
